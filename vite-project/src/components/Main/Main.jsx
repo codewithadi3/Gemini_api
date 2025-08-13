@@ -26,7 +26,7 @@ const Main = () => {
              <div className="card">
                 <p>Brainstrom team bonding activities for our work retreat</p>
                 <img src={assets.message_icon} alt="" />
-            </div>
+            </div><p>hi</p>
              <div className="card">
                 <p>Improve the readbility of the following code</p>
                 <img src={assets.code_icon} alt="" />
